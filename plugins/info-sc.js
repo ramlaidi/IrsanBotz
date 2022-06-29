@@ -204,7 +204,8 @@ Hai ${ye} Lagi Nyari Sc Ya?
 
 
 
-_*BELI MEMEK 5K DOANK FULL APIKEY*_`
+_*https://github.com/ramlaidi/IrsanBotz
+Jangan Lupa Star⭐😅*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
