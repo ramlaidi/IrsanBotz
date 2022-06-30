@@ -35,7 +35,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyzerr/MD-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramlaidi/IrsanBotz)
 
 
 # Heroku Buildpack
@@ -47,9 +47,9 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Irsan](https://github.com/ramlaidi.png?size=200)](https://github.com/Hyzerr) 
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Irsan](https://github.com/ramlaidi.png?size=200)](https://github.com/ramlaidi) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
+[Ilman](https://github.com/ilmanhdyt) | [Irsan](https://github.com/ramlaidi)
  Author | Creator
  
 ### SAN Statistics
