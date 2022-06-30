@@ -2,20 +2,20 @@
 <img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
-<h1 align="center">Hyzer Official</h1>
+<h1 align="center">IrsanXd</h1>
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Hyzerr"><img title="GitHub" src="https://img.shields.io/badge/Github-Hyzerr.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/zexyds_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://api-hyzerr.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://github.com/ramlaidi"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://api.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6287892711054">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/855387869292">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
@@ -47,12 +47,12 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Irsan](https://github.com/ramlaidi.png?size=200)](https://github.com/Hyzerr) 
 ----|----
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
  Author | Creator
  
-### Hyzer Statistics
+### SAN Statistics
 
 [![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
