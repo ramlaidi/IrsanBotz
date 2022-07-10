@@ -204,7 +204,7 @@ Hai ${ye} Lagi Nyari Sc Ya?
 
 
 
-_*github.com/ramlaidi/IrsanBotz Jangan Lupa kasih bintang/star⭐*_`
+_*Sc? Di yt gw : bitly.com/IrsanDev*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
