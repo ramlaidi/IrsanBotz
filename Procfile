@@ -1,1 +1,1 @@
-worker: node .
+worker: node . --session "hyzer.data.json"
