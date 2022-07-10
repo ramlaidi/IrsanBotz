@@ -1,22 +1,22 @@
 //=============『 Utama 』================== //
-global.owner = ['6282178339278'] 
+global.owner = ['+856 20 52 906 199'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'RAFFI 𝐆𝐀𝐍𝐙あ⁩⁩'
-global.numberowner = '6282178339278'
+global.nameowner = 'IRSAN UhuYyあ⁩⁩'
+global.numberowner = '+856 20 52 906 199'
 global.instagram = 'https://www.instagram.com/rfindru'
 global.github = 'https://github.com/ramlaidi'
-global.dana = '082178339278'
-global.pulsa = '082178339278'
+global.dana = '089691183687'
+global.pulsa = '089691183687'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'raffiu-Md'
-global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHBFLFm'
-global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACdRO7pA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHB'
+global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'raffiu-MD'
 global.watermark = wm
-global.wm2 = '                     「 raffiu-MD あ⁩ 」'
-global.wm3 = '⫹⫺ raffiu-MD'
+global.wm2 = '                     「 San-MD あ⁩ 」'
+global.wm3 = '⫹⫺ San-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'punya'
-global.author = '© raffi ganz'
+global.author = '© San ganz♡Anya Chan'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -77,7 +77,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'Sad-Bot',
 }
 
 //=============『 RPG GAMES 』================== //
