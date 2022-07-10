@@ -35,9 +35,9 @@ global.wait = '_*Sabar kek Kontol*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Krinj? Lu kali'
-global.packname = '▪︎Punya<>Kamu\n▪︎DiBuat Oleh<>Bot\nPowered By<>Irsan'
-global.author = '© San ganz♡Anya Chan'
+global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
+global.packname = ''
+global.author = '•Jangan Nyolong Asu🗿🗿..\n•Stiker By SanBot-Md\n•IrsanGanz\n•NomorBot:+37259025147\nSc?Buy 5k Full Apikey'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
