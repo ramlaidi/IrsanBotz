@@ -13,7 +13,7 @@ global.pulsa = '089691183687'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'raffiu-Md'
+global.namebot = 'San-Md'
 global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHB'
 global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
@@ -21,9 +21,9 @@ global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'raffiu-MD'
+global.wm = 'San-MD'
 global.watermark = wm
 global.wm2 = '                     「 San-MD あ⁩ 」'
 global.wm3 = '⫹⫺ San-MD'
@@ -31,12 +31,12 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Sabar kek Kontol*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'punya'
+global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Krinj? Lu kali'
+global.packname = '▪︎Punya<>Kamu\n▪︎DiBuat Oleh<>Bot\nPowered By<>Irsan'
 global.author = '© San ganz♡Anya Chan'
 
 //=============『 Apikey 』================== //
