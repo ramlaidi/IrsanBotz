@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6289691183687'] 
+global.owner = ['+856 20 52 906 199'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'IRSAN Uhuyあ⁩⁩'
-global.numberowner = '6289691183687'
+global.numberowner = '+856 20 52 906 199'
 global.instagram = 'https://tyvv.com'
 global.github = 'https://github.com/ramlaidi'
 global.dana = '089691183687'
@@ -19,8 +19,8 @@ global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi 
 global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000\nNote:\nIrsan♡Anya'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg' //ini juga ganti 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'San-MD'
@@ -29,7 +29,7 @@ global.wm2 = '                     「 San-MD あ⁩ 」'
 global.wm3 = '⫹⫺ San-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg'
+global.media = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*Sabar kek Kontol*_'
 global.eror = '_*Server Error*_'
