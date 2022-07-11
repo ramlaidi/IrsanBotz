@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['+856 20 52 906 199'] 
+global.owner = ['6289691183687'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'IRSAN UhuYyあ⁩⁩'
-global.numberowner = '+856 20 52 906 199'
+global.nameowner = 'IRSAN Uhuyあ⁩⁩'
+global.numberowner = '6289691183687'
 global.instagram = 'https://tyvv.com'
 global.github = 'https://github.com/ramlaidi'
 global.dana = '089691183687'
@@ -16,7 +16,7 @@ global.gopay = '-'
 global.namebot = 'San-Md'
 global.gc = 'https://yandex/Surat\nAlisra\nayat32'
 global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
+global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000\nNote:\nIrsan♡Anya'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
-global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nIrsanGg☕'
-global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nIrsanGg☕'
+global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nSticker\Untuk\Mu'
+global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nBanh\Jangan\DiKecewakanDia:)'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
