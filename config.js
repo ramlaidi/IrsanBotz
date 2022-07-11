@@ -6,7 +6,7 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'IRSAN UhuYyあ⁩⁩'
 global.numberowner = '+856 20 52 906 199'
-global.instagram = 'https://www.instagram.com/rfindru'
+global.instagram = 'https://tyvv.com'
 global.github = 'https://github.com/ramlaidi'
 global.dana = '089691183687'
 global.pulsa = '089691183687'
@@ -14,8 +14,8 @@ global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'San-Md'
-global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHB'
-global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://yandex/Surat\nAlisra\nayat32'
+global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
-global.packname = ''
-global.author = '•Jangan Nyolong Asu🗿🗿..\n•Stiker By SanBot-Md\n•IrsanGanz\n•NomorBot:+37259025147\nSc?Buy 5k Full Apikey'
+global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nIrsanGg☕'
+global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nIrsanGg☕'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
